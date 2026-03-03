@@ -99,3 +99,8 @@ We are maintaining the future roadmap using the [issues](https://github.com/Kube
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KubeElasti/KubeElasti&type=Date)](https://www.star-history.com/#KubeElasti/KubeElasti&Date)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKubeElasti%2FKubeElasti.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKubeElasti%2FKubeElasti?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKubeElasti%2FKubeElasti.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKubeElasti%2FKubeElasti?ref=badge_large)
